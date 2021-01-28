@@ -1,0 +1,19 @@
+{
+  "name": "verwerkingsopdracht",
+  "version": "1.0.0",
+  "description": "verwerkingsOpdracht",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ginver/jestTestOpdracht.git"
+  },
+  "author": "Gigi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ginver/jestTestOpdracht/issues"
+  },
+  "homepage": "https://github.com/Ginver/jestTestOpdracht#readme"
+}
